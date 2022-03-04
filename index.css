@@ -288,9 +288,10 @@ body{
 @media screen and (min-width:1116px) {
     body{
         padding: 20px 100px;
-    }.main{
+    }
+    .main{
         display: flex;
-        gap: 47rem;
+        gap: 44rem;
     }
     hr{
         display: none;
