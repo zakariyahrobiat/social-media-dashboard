@@ -203,7 +203,7 @@ body{
 }
 .section{
     display: flex;
-    gap: 3rem;
+    gap: 20px;
     background-color: hsl(227, 47%, 96%);
     padding: 20px ;
     margin-bottom: 20px;
