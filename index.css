@@ -17,7 +17,7 @@ body{
 }
 .header{
     display: flex;
-    gap: 200px;
+    gap: 180px;
     padding-top: 20px;
 }
 .label{
