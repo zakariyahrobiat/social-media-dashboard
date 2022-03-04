@@ -151,7 +151,7 @@ body{
         padding: 20px 50px;
     }.main{
         display: flex;
-        gap: 38rem;
+        gap: 33rem;
     }
     hr{
         display: none;
@@ -288,10 +288,9 @@ body{
 @media screen and (min-width:1116px) {
     body{
         padding: 20px 100px;
-    }
-    .main{
+    }.main{
         display: flex;
-        gap: 25rem;
+        gap: 47rem;
     }
     hr{
         display: none;
