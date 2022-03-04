@@ -291,7 +291,7 @@ body{
     }
     .main{
         display: flex;
-        gap: 40rem;
+        gap: 35rem;
     }
     hr{
         display: none;
