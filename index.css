@@ -115,7 +115,7 @@ body{
 }
 .section{
     display: flex;
-    gap: 11rem;
+    gap: 9rem;
     background-color: hsl(227, 47%, 96%);
     padding: 20px 20px;
     margin-bottom: 20px;
