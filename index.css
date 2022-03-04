@@ -82,7 +82,7 @@ body{
     font-weight: 400;
 }
 .text-container small{
-    padding-left: 20px;
+    padding-left: 5px;
     font-size: 15px;
 }
 .text-container b{
@@ -115,7 +115,7 @@ body{
 }
 .section{
     display: flex;
-    gap: 13rem;
+    gap: 11rem;
     background-color: hsl(227, 47%, 96%);
     padding: 20px 20px;
     margin-bottom: 20px;
