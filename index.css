@@ -231,7 +231,7 @@ body{
 .dark-container{
     color: white;
 }
-.icon{
+/*.icon{
     padding-left: 40px;
 }
 .up-icon1{
@@ -283,7 +283,7 @@ body{
     margin-left: 20px; 
     margin-top: 20px; 
    
-}
+}*/
 }
 @media screen and (min-width:1116px) {
     body{
