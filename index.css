@@ -151,13 +151,14 @@ body{
         padding: 20px 50px;
     }.main{
         display: flex;
-        gap: 33rem;
+        gap: 23rem;
     }
     hr{
         display: none;
     }
     .header{
        gap: 20px;
+
     }
     .app-container{
         display: flex;
